@@ -74,6 +74,7 @@ flowchart LR
 ```
 PowerBI Dashboard for Water Quality/
 ├── README.md
+├── LICENSE
 ├── Code/
 │   ├── WaterQuality_Dashboard.pbix   # Power BI report (data model + visuals)
 │   ├── BI-DAX                        # DAX calculated columns and measures (source of truth)
@@ -171,4 +172,4 @@ Use **File → Export to PDF** or **Export to PowerPoint** to share snapshots wi
 
 ## License
 
-Add your preferred license here if you publish this repository publicly.
+© 2026 Shayesteh Naeimabadi. This project is mine; licensed under [MIT](LICENSE).
